@@ -21,7 +21,7 @@ repository               : "sergeiwallace.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/Sergei Wallace - Selfie with Jenny in Knoxville - 1600 x 1600px - 1MB.jpeg"
+  avatar           : "profile.png"
   name             : "Sergei Wallace"
   pronouns         : "he/him/they"  
   bio              : "software engineer with my two jr devs <insert cat emojis>"
